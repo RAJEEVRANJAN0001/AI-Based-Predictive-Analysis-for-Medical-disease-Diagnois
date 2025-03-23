@@ -32,7 +32,7 @@ This repository contains an AI-driven diagnostic system for detecting **diabetes
 ## 🛠 Installation & Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ai-diagnostic-system.git
+   gh repo clone RAJEEVRANJAN0001/AI-Based-Predictive-Analysis-for-Medical-disease-Diagnois
    cd ai-diagnostic-system
    ```
 2. **Run the training script (if needed)**:
